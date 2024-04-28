@@ -1,0 +1,88 @@
+<div className="Group231 w-96 h-96 relative">
+  <div className="Container w-96 h-96 left-0 top-0 absolute flex-col justify-center items-start inline-flex">
+    <div className="Container self-stretch h-96 flex-col justify-start items-start flex">
+      <div className="RsFullwidthWrap w-96 h-96 justify-center items-center inline-flex">
+        <div className="RsModuleWrapRsModule grow shrink basis-0 self-stretch justify-center items-center inline-flex">
+          <div className="RsSlides grow shrink basis-0 self-stretch justify-center items-center inline-flex">
+            <div className="RsSlide w-96 h-96 relative flex-col justify-start items-start flex">
+              <div className="RsSbgPxRsSbgWrap w-96 h-96 flex-col justify-center items-start inline-flex">
+                <img className="RsSbgImage w-96 h-96 relative" src="https://via.placeholder.com/1440x720" />
+              </div>
+              <div className="RsLayerWrapRsLayer h-6 px-12 flex-col justify-start items-center inline-flex">
+                <div className="RidiculouslySimpleIncrediblyPowerful text-center text-sky-800 text-5xl font-semibold font-['Poppins'] leading-snug">Ridiculously Simple. Incredibly Powerful.</div>
+              </div>
+              <div className="RsLayerWrapRsLayer h-6 px-44 flex-col justify-start items-center inline-flex">
+                <div className="VacationRentalManagementSoftware text-center text-neutral-900 text-3xl font-medium font-['Poppins'] leading-snug">Vacation Rental Management Software.</div>
+              </div>
+              <div className="RsLayerWrapRsLayer w-48 h-44 flex-col justify-center items-start inline-flex">
+                <img className="UiSliderReseverationDropdown02Png w-48 h-44 relative" src="https://via.placeholder.com/199x181" />
+              </div>
+              <div className="RsLayerWrapRsLayer w-60 h-16 flex-col justify-center items-start inline-flex">
+                <img className="UiSliderMonthEndApproval01Png w-60 h-16 relative" src="https://via.placeholder.com/234x67" />
+              </div>
+              <div className="RsLayerWrapRsLayer w-96 h-96 flex-col justify-center items-start inline-flex">
+                <img className="SliderEllipse68Png w-96 h-96 relative" src="https://via.placeholder.com/429x429" />
+              </div>
+              <div className="RsLayerWrapRsLayer w-96 h-96 flex-col justify-center items-start inline-flex">
+                <img className="UiSliderLaptopPng w-96 h-96 relative" src="https://via.placeholder.com/814x399" />
+              </div>
+              <div className="RsLayerWrapRsLayer w-40 h-56 flex-col justify-center items-start inline-flex">
+                <img className="OverridesSlice01Png w-40 h-56 relative" src="https://via.placeholder.com/166x229" />
+              </div>
+              <div className="RsLayerWrapRsLayer w-72 h-60 flex-col justify-center items-start inline-flex">
+                <img className="UiSliderGroup229Png w-72 h-60 relative" src="https://via.placeholder.com/289x234" />
+              </div>
+              <div className="RsLayerWrapRsLayer w-96 h-40 flex-col justify-center items-start inline-flex">
+                <img className="UiSliderAvailabiltyCal01Png w-96 h-40 relative" src="https://via.placeholder.com/367x167" />
+              </div>
+              <div className="RsLayerWrapRsLayer w-96 h-28 flex-col justify-center items-start inline-flex">
+                <img className="UiSliderSeoPercentage01Png w-96 h-28 relative" src="https://via.placeholder.com/477x120" />
+              </div>
+              <div className="RsLayerWrapRsLayer w-64 h-40 flex-col justify-center items-start inline-flex">
+                <img className="UiSliderCreditCard01Png w-64 h-40 relative" src="https://via.placeholder.com/251x165" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div className="Container w-96 h-12 left-0 top-[720px] absolute flex-col justify-center items-start inline-flex">
+    <div className="Container self-stretch grow shrink basis-0 flex-col justify-start items-center flex">
+      <div className="Container h-12 justify-start items-center inline-flex">
+        <div className="List w-96 self-stretch pl-36 justify-start items-start inline-flex">
+          <div className="Group219Margin w-36 pr-12 pb-1.5 flex-col justify-start items-start inline-flex">
+            <img className="Group219LinkNextpaxPng w-24 h-11 relative" src="https://via.placeholder.com/99x44" />
+          </div>
+          <div className="Group319Margin w-36 pr-12 pb-1.5 flex-col justify-start items-start inline-flex">
+            <img className="Group319LinkYourwelcomePng w-24 h-11 relative" src="https://via.placeholder.com/99x44" />
+          </div>
+          <div className="Group419Margin w-36 pr-12 pb-1.5 flex-col justify-start items-start inline-flex">
+            <img className="Group419LinkBreezewayPng w-24 h-11 relative" src="https://via.placeholder.com/99x44" />
+          </div>
+          <div className="Group519Margin w-36 pr-12 pb-1.5 flex-col justify-start items-start inline-flex">
+            <img className="Group519LinkVrboPng w-24 h-11 relative" src="https://via.placeholder.com/99x44" />
+          </div>
+          <div className="Group619Margin w-36 pr-12 pb-1.5 flex-col justify-start items-start inline-flex">
+            <img className="Group619LinkAscentPng w-24 h-11 relative" src="https://via.placeholder.com/99x44" />
+          </div>
+          <div className="Group719Margin w-36 pr-12 pb-1.5 flex-col justify-start items-start inline-flex">
+            <img className="Group719LinkBookingPng w-24 h-11 relative" src="https://via.placeholder.com/99x44" />
+          </div>
+          <div className="Group819Margin w-36 pr-12 pb-1.5 flex-col justify-start items-start inline-flex">
+            <img className="Group819LinkHomesVillasPng w-24 h-11 relative" src="https://via.placeholder.com/99x44" />
+          </div>
+          <div className="Group919Margin w-36 pr-12 pb-1.5 flex-col justify-start items-start inline-flex">
+            <img className="Group919LinkExpediaPng w-24 h-11 relative" src="https://via.placeholder.com/99x44" />
+          </div>
+          <div className="Group1019Margin w-36 pr-12 pb-1.5 flex-col justify-start items-start inline-flex">
+            <img className="Group1019LinkSuperhogPng w-24 h-11 relative" src="https://via.placeholder.com/99x44" />
+          </div>
+          <div className="Group1119Margin w-36 pr-12 pb-1.5 flex-col justify-start items-start inline-flex">
+            <img className="Group1119LinkBeyondPng w-24 h-11 relative" src="https://via.placeholder.com/99x44" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
